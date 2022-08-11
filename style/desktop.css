@@ -1,0 +1,15 @@
+.side-navbar{
+    margin: 0 15pt 0 15pt;
+}
+
+.image-shader:hover{
+    opacity: 1;
+}
+
+.desktop-navbar{
+    display: flex;
+}
+
+.mobile-navbar{
+    display: none;
+}
